@@ -1,5 +1,5 @@
 {
-    "name": "burdamagazinorg/thunder-project",
+    "name": "yannickoo/thunder-project",
     "description": "Project template for Thunder projects with composer",
     "type": "project",
     "license": "GPL-2.0+",
@@ -28,7 +28,7 @@
         }
     ],
     "require": {
-        "burdamagazinorg/thunder": "~8.0",
+        "burdamagazinorg/thunder": "dev-feature/thunder-ux",
         "composer/installers": "^1.2",
         "drupal-composer/drupal-scaffold": "^2.2",
         "cweagans/composer-patches": "~1.0",
